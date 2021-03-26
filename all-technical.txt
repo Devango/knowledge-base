@@ -1,1 +1,3 @@
 
+- After upgrading customer to bc 15 onprem, found scanned barcode value is not reflecting to sales line cross reference number field.
+  
