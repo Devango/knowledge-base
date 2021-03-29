@@ -1,3 +1,6 @@
 
 - After upgrading customer to bc 15 onprem, found scanned barcode value is not reflecting to sales line cross reference number field.
+
+- Networking issue for navision 2009, when navision server and sql server is on different system, navision is working fine but when trying to 
+  use navision web services, its keep saying invalid user name and password. 
   
