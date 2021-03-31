@@ -7,3 +7,8 @@
   -Nav 2009 issue has been solved for which web services were not accessible. Found iis and asp.net were not installed properly so installed them and also
    tested web sites which are based on navision 2009 web services.
   
+ -Working on a fantastic report where I am writing sql procedure based on dynamic pivoting to get employee earnings and deductions based on payroll ledger entries.
+  Created intermediate table to add one more category on top of payroll control type column.
+  Creating c# console application based on third party dlls to create exce sheet instead of using excel buffer to gain performance and store it in particular location based on
+  payroll setup table.
+  This can work from nav client as well.
